@@ -45,6 +45,6 @@ menu박스 가운데정렬, 글자가운데 정렬 */
     display:block;
 }
 
-menu > ul > li > ul > li:hover {
+menu > ul > li > ul:hover {
     background: orange;
 }
